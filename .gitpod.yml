@@ -11,7 +11,12 @@ github:
     prebuilds:
         # enable for the master/default branch (defaults to true)
         master: true
-        # enable for pull requests coming from this repo (defaults to true)
+# enable for pull requests coming from this repo (defaults to true)
         pullRequests: false
-        # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+# add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
         addComment: false
+
+vscode:
+  extensions:
+    - oguhpereira.spotify-color-theme@1.2.9:e2CfFW1KmY7FhxMIkcY/Sg==
+    - vladeeg.vscode-theme-vdark@1.1.0:IbJj2Pm0zXoREGuG7LGa2g==
